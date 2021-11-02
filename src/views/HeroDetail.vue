@@ -69,8 +69,11 @@ export default {
 .card {
   display: block;
   margin: 1rem auto;
-  max-width: 500px;
+  max-width: 100%;
   width: 500px;
+}
+.hero-image {
+    max-width: 100%;
 }
 .hero-name {
   background-color: white;
